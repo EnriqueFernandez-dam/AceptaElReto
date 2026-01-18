@@ -7,6 +7,6 @@ public class Ej116 {
             System.out.print("Hola mundo.\n");
             // Mira lo chulo que es este archivo
         }
-        teclado.close();
+
     }
 }
